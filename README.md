@@ -1,5 +1,12 @@
 # Awesome-Anomaly-Detection
 
+- `CVPR'23`: June 20-22
+- `CIKM'23`: October 21-25
+- `KDD'23`: August 6-10
+- `ICML'23`: July 28-29
+- `NIPS'23`: December 15-16
+
+
 ## Conference 2023
 
 ### ICLR 2023
