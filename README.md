@@ -133,6 +133,11 @@ Search Keywords: `Anomaly Detection`, `Outlier Detection`, `Out-of-Distribution`
 - [Catching Both Gray and Black Swans: Open-Set Supervised Anomaly Detection](https://openaccess.thecvf.com/content/CVPR2022/papers/Ding_Catching_Both_Gray_and_Black_Swans_Open-Set_Supervised_Anomaly_Detection_CVPR_2022_paper.pdf)
 - [Generative Cooperative Learning for Unsupervised Video Anomaly Detection](https://openaccess.thecvf.com/content/CVPR2022/papers/Zaheer_Generative_Cooperative_Learning_for_Unsupervised_Video_Anomaly_Detection_CVPR_2022_paper.pdf)
 - [UBnormal: New Benchmark for Supervised Open-Set Video Anomaly Detection](https://openaccess.thecvf.com/content/CVPR2022/papers/Acsintoae_UBnormal_New_Benchmark_for_Supervised_Open-Set_Video_Anomaly_Detection_CVPR_2022_paper.pdf)
+- [Robust Outlier Detection by De-Biasing VAE Likelihoods](https://openaccess.thecvf.com/content/CVPR2022/papers/Chauhan_Robust_Outlier_Detection_by_De-Biasing_VAE_Likelihoods_CVPR_2022_paper.pdf)
+- [Rethinking Reconstruction Autoencoder-Based Out-of-Distribution Detection](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_Rethinking_Reconstruction_Autoencoder-Based_Out-of-Distribution_Detection_CVPR_2022_paper.pdf)
+- [Neural Mean Discrepancy for Efficient Out-of-Distribution Detection](https://openaccess.thecvf.com/content/CVPR2022/papers/Dong_Neural_Mean_Discrepancy_for_Efficient_Out-of-Distribution_Detection_CVPR_2022_paper.pdf)
+
+
 
 ### ICLR 2022
 
@@ -249,3 +254,8 @@ Search Keywords: `Anomaly Detection`, `Outlier Detection`, `Out-of-Distribution`
 - [Continuous Trajectory Similarity Search for Online Outlier Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9306918)
 
 
+
+## Survey
+
+- [Anomaly Detection in Autonomous Driving: A Survey](https://openaccess.thecvf.com/content/CVPR2022W/WAD/papers/Bogdoll_Anomaly_Detection_in_Autonomous_Driving_A_Survey_CVPRW_2022_paper.pdf) CVPR'22
+- 
