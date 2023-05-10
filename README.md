@@ -1,5 +1,8 @@
 # Awesome-Anomaly-Detection
 
+Search Keywords: `Anomaly Detection`, `Outlier Detection`, `Out-of-Distribution`, `Abnormal Detecting`, `Abnormal Detection`
+
+
 - `CVPR'23`: June 20-22
 - `ICLR'23`: May 1-5
 - `ECCV'23`: October 2-6
@@ -37,7 +40,6 @@
 - [Red PANDA: Disambiguating Image Anomaly Detection by Removing Nuisance Factors](https://openreview.net/pdf?id=z37tDDHHgi)
 - [Out-of-distribution Detection with Implicit Outlier Transformation](https://openreview.net/pdf?id=hdghx6wbGuD)
 - [Energy-based Out-of-Distribution Detection for Graph Neural Networks](https://openreview.net/pdf?id=zoz7Ze4STUL)
-- [A framework for benchmarking Class-out-of-distribution detection and its application to ImageNet](https://openreview.net/pdf?id=Iuubb9W6Jtk)
 
 
 ### ECCV 2023
