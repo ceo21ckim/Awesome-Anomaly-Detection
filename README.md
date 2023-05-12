@@ -107,15 +107,15 @@ Search Keywords: `Anomaly Detection`, `Outlier Detection`, `Out-of-Distribution`
 ### TKDE 2023
 
 - [A High-Dimensional Outlier Detection Approach Based on Local Coulomb Force](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9766449)
-- [Distribution Agnostic Symbolic Representations for Time Series Dimensionality Reduction and Online Anomaly Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9774017)
+- [Distribution Agnostic Symbolic Representations for Time Series Dimensionality Reduction and Online Anomaly Detection](https://arxiv.org/pdf/2105.09592.pdf)
 - [Learning Robust Deep State Space for Unsupervised Anomaly Detection in Contaminated Time-Series](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9773982)
-- [CSCAD: Correlation Structure-Based Collective Anomaly Detection in Complex System](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9740038)
+- [CSCAD: Correlation Structure-Based Collective Anomaly Detection in Complex System](https://arxiv.org/pdf/2105.14476.pdf)
 - [DCT-GAN: Dilated Convolutional Transformer-Based GAN for Time Series Anomaly Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9626552)
 - [Time Series Anomaly Detection With Adversarial Reconstruction Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9669010)
-- [Current Time Series Anomaly Detection Benchmarks are Flawed and are Creating the Illusion of Progress](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9537291)
-- [Isolation Distributional Kernel: A New Tool for Point and Group Anomaly Detections](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9573389)
+- [Current Time Series Anomaly Detection Benchmarks are Flawed and are Creating the Illusion of Progress](https://arxiv.org/pdf/2009.13807.pdf)
+- [Isolation Distributional Kernel: A New Tool for Point and Group Anomaly Detections]([https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9573389](https://arxiv.org/pdf/2009.12196.pdf))
 - [Cluster Purging: Efficient Outlier Detection Based on Rate-Distortion Theory](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9511218)
-- [Unsupervised Deep Anomaly Detection for Multi-Sensor Time-Series Signals](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9507359)
+- [Unsupervised Deep Anomaly Detection for Multi-Sensor Time-Series Signals]([https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9507359](https://arxiv.org/pdf/2107.12626.pdf))
 - [Efficient Anomaly Detection for High-Dimensional Sensing Data With One-Class Support Vector Machine](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9422197)
 
 
