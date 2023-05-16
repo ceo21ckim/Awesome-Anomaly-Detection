@@ -1,20 +1,42 @@
 # Awesome-Anomaly-Detection
 
-Search Keywords: `Anomaly Detection`, `Outlier Detection`, `Out-of-Distribution`, `Abnormal Detecting`, `Abnormal Detection`
+Search Keywords: `Anomaly Detection`, `Outlier Detection`, `Out-of-Distribution`, `Abnormal Detecting`, `Abnormal Detection`, `Defect Detection`
 
-
+# Conference 2023
 - `CVPR'23`: June 20-22
-- `ICLR'23`: May 1-5
+- [ICLR'23](#ICLR-2023)
+- [WACV'23](#WACV-2023)
+- `ACCV'23`: `None`
+- `BMCV'23`: November 23-24
 - `ECCV'23`: October 2-6
+- [AAAI'23](#AAAI-2023) 
 - `CIKM'23`: October 21-25
 - `KDD'23`: August 6-10
 - `ICML'23`: July 28-29
 - `NIPS'23`: December 15-16
 - `ICDE'23`: April 3-7
-- `WSDM'23`: Februrary 27 - March 3
-- `WWW'23`: April 30 - May 4
-- `SDM'23`: April 27-29
+- [WSDM'23](#WSDM-2023)
+- [WWW'23](#WWW-2023)
+- [SDM'23](#SDM-2023)
 - `SIGMOD'23`: June 18-23
+
+# Conference 2022
+
+- [CVPR'22](#CVPR-2022)
+- [ICLR'22](#ICLR-2022)
+- [WACV'22](#WACV-2022)
+- [ACCV'22](#ACCV-2022)
+- [BMCV'22](#BMCV-2022)
+- [ECCV'22](#ECCV-2022)
+- [AAAI'22](#AAAI-2022)
+- [KDD'22](#KDD-2022)
+- [ICML'22](#ICML-2022)
+- [NIPS'22](#NIPS-2022)
+- [ICDE'22](#ICDE-2022)
+- [WSDM'22](#WSDM-2022)
+- [WWW'22](#WWW-2022)
+- [SDM'22](#SDM-2022)
+- [SIGMOD'22](#SIGMOD-2022)
 
 
 ## Conference 2023
@@ -42,9 +64,38 @@ Search Keywords: `Anomaly Detection`, `Outlier Detection`, `Out-of-Distribution`
 - [Energy-based Out-of-Distribution Detection for Graph Neural Networks](https://openreview.net/pdf?id=zoz7Ze4STUL)
 
 
+### CVPR 2023
+
+- `Comming Soon: June 20-22`
+
+
+
+### WACV 2023
+
+- [Cross-Domain Video Anomaly Detection Without Target Domain Adaptation](https://arxiv.org/pdf/2212.07010.pdf)
+- [Bi-Directional Frame Interpolation for Unsupervised Video Anomaly Detection](https://openaccess.thecvf.com/content/WACV2023/papers/Deng_Bi-Directional_Frame_Interpolation_for_Unsupervised_Video_Anomaly_Detection_WACV_2023_paper.pdf)
+- [Zero-shot versus Many-shot: Unsupervised Texture Anomaly Detection](https://openaccess.thecvf.com/content/WACV2023/papers/Aota_Zero-Shot_Versus_Many-Shot_Unsupervised_Texture_Anomaly_Detection_WACV_2023_paper.pdf)
+- [Towards Interpretable Video Anomaly Detection](https://openaccess.thecvf.com/content/WACV2023/papers/Doshi_Towards_Interpretable_Video_Anomaly_Detection_WACV_2023_paper.pdf)
+- [Out-of-Distribution Detection via Frequency-Regularized Generative Models](https://arxiv.org/pdf/2208.09083.pdf)
+- [Mixture Outlier Exposure: Towards Out-of-Distribution Detection in Fine-Grained Environments](https://arxiv.org/pdf/2106.03917.pdf)
+- [Normality Guided Multiple Instance Learning for Weakly Supervised Video Anomaly Detection](https://openaccess.thecvf.com/content/WACV2023/papers/Park_Normality_Guided_Multiple_Instance_Learning_for_Weakly_Supervised_Video_Anomaly_WACV_2023_paper.pdf)
+- [Hyperdimensional Feature Fusion for Out-of-Distribution Detection](https://openaccess.thecvf.com/content/WACV2023/papers/Wilson_Hyperdimensional_Feature_Fusion_for_Out-of-Distribution_Detection_WACV_2023_paper.pdf)
+- [No Shifted Augmentations (NSA): Compact Distributions for Robust Self-Supervised Anomaly Detection](https://arxiv.org/pdf/2203.10344.pdf)
+- [Out-of-Distribution Detection With Reconstruction Error and Typicality-Based Penalty](https://arxiv.org/pdf/2212.12641.pdf)
+- [Training Auxiliary Prototypical Classifiers for Explainable Anomaly Detection in Medical Image Segmentation](https://openaccess.thecvf.com/content/WACV2023/papers/Cho_Training_Auxiliary_Prototypical_Classifiers_for_Explainable_Anomaly_Detection_in_Medical_WACV_2023_paper.pdf)
+- [Anomaly Detection in 3D Point Clouds Using Deep Geometric Descriptors](https://arxiv.org/pdf/2202.11660.pdf)
+- [Asymmetric Student-Teacher Networks for Industrial Anomaly Detection](https://arxiv.org/pdf/2210.07829.pdf)
+- [Heatmap-Based Out-of-Distribution Detection](https://arxiv.org/pdf/2211.08115.pdf)
+- [DyAnNet: A Scene Dynamicity Guided Self-Trained Video Anomaly Detection Network](https://arxiv.org/pdf/2211.00882.pdf)
+
+
 ### ECCV 2023
 
 - [Anomaly Detection Requires Better Representations](https://arxiv.org/pdf/2210.10773.pdf)
+
+### AAAI 2023
+
+- 'Comming Soon`
 
 
 
@@ -151,6 +202,34 @@ Search Keywords: `Anomaly Detection`, `Outlier Detection`, `Out-of-Distribution`
 - [Revisiting flow generative models for Out-of-distribution detection](https://openreview.net/pdf?id=6y2KBh-0Fd9)
 
 
+### WACV 2022
+
+- [Discrete Neural Representations for Explainable Anomaly Detection](https://arxiv.org/pdf/2112.05585.pdf)
+- [Rethinking Video Anomaly Detection - A Continual Learning Approach](https://openaccess.thecvf.com/content/WACV2022/papers/Doshi_Rethinking_Video_Anomaly_Detection_-_A_Continual_Learning_Approach_WACV_2022_paper.pdf)
+- [Multi-Scale Patch-Based Representation Learning for Image Anomaly Detection and Segmentation](https://openaccess.thecvf.com/content/WACV2022/papers/Tsai_Multi-Scale_Patch-Based_Representation_Learning_for_Image_Anomaly_Detection_and_Segmentation_WACV_2022_paper.pdf)
+- [Fully Convolutional Cross-Scale-Flows for Image-Based Defect Detection](https://arxiv.org/pdf/2110.02855.pdf)
+- [FastAno: Fast Anomaly Detection via Spatio-Temporal Patch Transformation](https://arxiv.org/pdf/2106.08613.pdf)
+- [CFLOW-AD: Real-Time Unsupervised Anomaly Detection With Localization via Conditional Normalizing Flows](https://openaccess.thecvf.com/content/WACV2022/papers/Gudovskiy_CFLOW-AD_Real-Time_Unsupervised_Anomaly_Detection_With_Localization_via_Conditional_Normalizing_WACV_2022_paper.pdf)
+- [Multi-Branch Neural Networks for Video Anomaly Detection in Adverse Lighting and Weather Conditions](https://openaccess.thecvf.com/content/WACV2022/papers/Leroux_Multi-Branch_Neural_Networks_for_Video_Anomaly_Detection_in_Adverse_Lighting_WACV_2022_paper.pdf)
+- [A Semi-Supervised Generalized VAE Framework for Abnormality Detection Using One-Class Classification](https://openaccess.thecvf.com/content/WACV2022/papers/Sharma_A_Semi-Supervised_Generalized_VAE_Framework_for_Abnormality_Detection_Using_One-Class_WACV_2022_paper.pdf)
+
+### ACCV 2022
+
+- [The Eyecandies Dataset for Unsupervised Multimodal Anomaly Detection and Localization](https://arxiv.org/pdf/2210.04570.pdf)
+- [PPR-Net: Patch-based multi-scale pyramid registration network for defect detection of printed labels](https://openaccess.thecvf.com/content/ACCV2022/papers/Li_PPR-Net_Patch-based_multi-scale_pyramid_registration_network_for_defect_detection_of_ACCV_2022_paper.pdf)
+- [Self-Supervised Augmented Patches Segmentation for Anomaly Detection](https://openaccess.thecvf.com/content/ACCV2022/papers/Long_Self-Supervised_Augmented_Patches_Segmentation_for_Anomaly_Detection_ACCV_2022_paper.pdf)
+
+
+### BMCV 2022
+
+- [OSM: An Open Set Matting Framework with OOD Detection and Few-Shot Learning](https://bmvc2022.mpi-inf.mpg.de/0092.pdf)
+- [Anomaly Detection and Localization Using Attention-Guided Synthetic Anomaly and Test-Time Adaptation](https://bmvc2022.mpi-inf.mpg.de/0472.pdf)
+- [VL4Pose: Active Learning Through Out-Of-Distribution Detection For Pose Estimation](https://bmvc2022.mpi-inf.mpg.de/0610.pdf)
+- [Shifting Transformation Learning for Robust Out-of-Distribution Detection](https://bmvc2022.mpi-inf.mpg.de/0679.pdf)
+- [Siamese U-Net for Image Anomaly Detection and Segmentation with Contrastive Learning](https://bmvc2022.mpi-inf.mpg.de/0752.pdf)
+- [G-CMP: Graph-enhanced Contextual Matrix Profile for unsupervised anomaly detection in sensor-based remote health monitoring](https://bmvc2022.mpi-inf.mpg.de/0854.pdf)
+
+
 
 ### ECCV 2022
 
@@ -170,6 +249,23 @@ Search Keywords: `Anomaly Detection`, `Outlier Detection`, `Out-of-Distribution`
 - [Natural Synthetic Anomalies for Self-Supervised Anomaly Detection and Localization](https://arxiv.org/pdf/2109.15222.pdf)
 - [DSR — A dual subspace re-projection network for surface anomaly detection](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910526.pdf)
 
+### AAAI 2022
+
+- [Outlier Detection in Wind Turbine Frequency Converters Using Long-Term Sensor Data](https://ojs.aaai.org/index.php/AAAI/article/view/21533)
+- [Unsupervised Anomaly Detection by Robust Density Estimation](https://ojs.aaai.org/index.php/AAAI/article/view/20328)
+- [Zero-Shot Out-of-Distribution Detection Based on the Pre-Trained Model CLIP](https://ojs.aaai.org/index.php/AAAI/article/view/20610)
+- [Comprehensive Regularization in a Bi-Directional Predictive Network for Video Anomaly Detection](https://ojs.aaai.org/index.php/AAAI/article/view/19898)
+- [A Causal Inference Look At Unsupervised Video Anomaly Detection](https://ojs.aaai.org/index.php/AAAI/article/view/20053)
+- [LUNAR: Unifying Local Outlier Detection Methods via Graph Neural Networks
+](https://ojs.aaai.org/index.php/AAAI/article/view/20629)
+- [Out of Distribution Data Detection Using Dropout Bayesian Neural Networks](https://ojs.aaai.org/index.php/AAAI/article/view/20757)
+- [AnomalyKiTS: Anomaly Detection Toolkit for Time Series](https://ojs.aaai.org/index.php/AAAI/article/view/21730)
+- [Towards a Rigorous Evaluation of Time-Series Anomaly Detection](https://ojs.aaai.org/index.php/AAAI/article/view/20680)
+- [Self-Training Multi-Sequence Learning with Transformer for Weakly Supervised Video Anomaly Detection](https://ojs.aaai.org/index.php/AAAI/article/view/20028)
+- [iDECODe: In-Distribution Equivariance for Conformal Out-of-Distribution Detection](https://ojs.aaai.org/index.php/AAAI/article/view/20670)
+- [Provable Guarantees for Understanding Out-of-distribution Detection](https://ojs.aaai.org/index.php/AAAI/article/view/20752)
+- [Transferring the Contamination Factor between Anomaly Detection Domains by Shape Similarity](https://ojs.aaai.org/index.php/AAAI/article/view/20331)
+- [Calibrated Nonparametric Scan Statistics for Anomalous Pattern Detection in Graphs](https://ojs.aaai.org/index.php/AAAI/article/view/20339)
 
 
 ### CIKM 2022
