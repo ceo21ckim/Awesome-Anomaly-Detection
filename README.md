@@ -42,8 +42,17 @@ Search Keywords: `Anomaly Detection`, `Outlier Detection`, `Out-of-Distribution`
 ## Conference 2023
 
 ### CVPR 2023
-
 - `Comming Soon: June 20-22`
+- [Anomaly Detection via Reverse Distillation from One-Class Embedding]()
+- [Prototypical Residual Networks for Anomaly Detection and Localization]()
+- [Explicit Boundary Guided Semi-Push-Pull Contrastive Learning for Supervised Anomaly Detection]()
+- [Deep Learning for Unsupervised Anomaly Localization in Industrial Images: A Survey]()
+- [DeSTSeg: Segmentation Guided Denoising Student-Teacher for Anomaly Detection]()
+- [Multimodal Industrial Anomaly Detection via Hybrid Fusion]()
+- [Prompt-Guided Zero-Shot Anomaly Action Recognition using Pretrained Deep Skeleton Features]()
+- [Self-Supervised Video Forensics by Audio-Visual Anomaly Detection]()
+- [SQUID: Deep Feature In-Painting for Unsupervised Anomaly Detection]()
+- [PyramidFlow: High-Resolution Defect Contrastive Localization using Pyramid Normalizing Flow]()
 
 ### ICLR 2023
 
@@ -62,13 +71,6 @@ Search Keywords: `Anomaly Detection`, `Outlier Detection`, `Out-of-Distribution`
 - [Red PANDA: Disambiguating Image Anomaly Detection by Removing Nuisance Factors](https://openreview.net/pdf?id=z37tDDHHgi)
 - [Out-of-distribution Detection with Implicit Outlier Transformation](https://openreview.net/pdf?id=hdghx6wbGuD)
 - [Energy-based Out-of-Distribution Detection for Graph Neural Networks](https://openreview.net/pdf?id=zoz7Ze4STUL)
-
-
-### CVPR 2023
-
-- `Comming Soon: June 20-22`
-
-
 
 ### WACV 2023
 
@@ -95,7 +97,7 @@ Search Keywords: `Anomaly Detection`, `Outlier Detection`, `Out-of-Distribution`
 
 ### AAAI 2023
 
-- 'Comming Soon`
+- `Comming Soon`
 
 
 
