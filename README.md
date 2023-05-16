@@ -3,7 +3,7 @@
 Search Keywords: `Anomaly Detection`, `Outlier Detection`, `Out-of-Distribution`, `Abnormal Detecting`, `Abnormal Detection`, `Defect Detection`
 
 # Conference 2023
-- `CVPR'23`: June 20-22
+- [CVPR'23](#CVPR-2023)
 - [ICLR'23](#ICLR-2023)
 - [WACV'23](#WACV-2023)
 - `ACCV'23`: `None`
@@ -42,7 +42,7 @@ Search Keywords: `Anomaly Detection`, `Outlier Detection`, `Out-of-Distribution`
 ## Conference 2023
 
 ### CVPR 2023
-- `Comming Soon: June 20-22`
+
 - [Anomaly Detection via Reverse Distillation from One-Class Embedding]()
 - [Prototypical Residual Networks for Anomaly Detection and Localization]()
 - [Explicit Boundary Guided Semi-Push-Pull Contrastive Learning for Supervised Anomaly Detection]()
