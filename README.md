@@ -43,16 +43,13 @@ Search Keywords: `Anomaly Detection`, `Outlier Detection`, `Out-of-Distribution`
 
 ### CVPR 2023
 
-- [Anomaly Detection via Reverse Distillation from One-Class Embedding]()
-- [Prototypical Residual Networks for Anomaly Detection and Localization]()
-- [Explicit Boundary Guided Semi-Push-Pull Contrastive Learning for Supervised Anomaly Detection]()
-- [Deep Learning for Unsupervised Anomaly Localization in Industrial Images: A Survey]()
-- [DeSTSeg: Segmentation Guided Denoising Student-Teacher for Anomaly Detection]()
-- [Multimodal Industrial Anomaly Detection via Hybrid Fusion]()
-- [Prompt-Guided Zero-Shot Anomaly Action Recognition using Pretrained Deep Skeleton Features]()
-- [Self-Supervised Video Forensics by Audio-Visual Anomaly Detection]()
-- [SQUID: Deep Feature In-Painting for Unsupervised Anomaly Detection]()
-- [PyramidFlow: High-Resolution Defect Contrastive Localization using Pyramid Normalizing Flow]()
+- [Prototypical Residual Networks for Anomaly Detection and Localization](https://arxiv.org/pdf/2212.02031.pdf)
+- [Explicit Boundary Guided Semi-Push-Pull Contrastive Learning for Supervised Anomaly Detection](https://arxiv.org/pdf/2207.01463.pdf)
+- [DeSTSeg: Segmentation Guided Denoising Student-Teacher for Anomaly Detection](https://arxiv.org/pdf/2211.11317.pdf)
+- [Multimodal Industrial Anomaly Detection via Hybrid Fusion](https://arxiv.org/pdf/2303.00601.pdf)
+- [Prompt-Guided Zero-Shot Anomaly Action Recognition using Pretrained Deep Skeleton Features](https://arxiv.org/pdf/2303.15167.pdf)
+- [Self-Supervised Video Forensics by Audio-Visual Anomaly Detection](https://arxiv.org/pdf/2301.01767.pdf)
+- [PyramidFlow: High-Resolution Defect Contrastive Localization using Pyramid Normalizing Flow](https://arxiv.org/pdf/2303.02595.pdf)
 
 ### ICLR 2023
 
