@@ -14,7 +14,7 @@ Search Keywords: `Anomaly Detection`, `Outlier Detection`, `Out-of-Distribution`
 - `KDD'23`: August 6-10
 - `ICML'23`: July 28-29
 - `NIPS'23`: December 15-16
-- `ICDE'23`: April 3-7
+- [ICDE'23](#ICDE-2023)
 - [WSDM'23](#WSDM-2023)
 - [WWW'23](#WWW-2023)
 - [SDM'23](#SDM-2023)
@@ -119,7 +119,12 @@ Search Keywords: `Anomaly Detection`, `Outlier Detection`, `Out-of-Distribution`
 
 ### ICDE 2023
 
-- `Comming Soon: April 3-7`
+- [Online Anomalous Subtrajectory Detection on Road Networks with Deep Reinforcement Learning](https://arxiv.org/pdf/2211.08415.pdf)
+- [A Contextual Master-Slave Framework on Urban Region Graph for Urban Village Detection](https://arxiv.org/pdf/2211.14633.pdf)
+- [Detection of Groups With Biased Representation in Ranking](https://arxiv.org/pdf/2301.00719.pdf)
+- [Unsupervised Graph Outlier Detection: Problem Revisit, New Insight, and Superior Method](https://fanzhangcs.github.io/papers/2023_icde_unod.pdf)
+- [UADB: Unsupervised Anomaly Detection Booster](https://arxiv.org/pdf/2306.01997.pdf)
+
 
 
 ### WSDM 2023
