@@ -1,6 +1,6 @@
 # Awesome-Anomaly-Detection
 
-Search Keywords: `Anomaly Detection`, `Outlier Detection`, `Out-of-Distribution`, `Abnormal Detecting`, `Abnormal Detection`, `Defect Detection` `inspection`.
+Search Keywords: `Anomaly Detection`, `Outlier Detection`, `Out-of-Distribution`, `Abnomal Detecting`, `Abnormal Detection`, `Defect Detection` `inspection`.
 
 # Conference 2023
 - [CVPR'23](#CVPR-2023)
@@ -18,7 +18,7 @@ Search Keywords: `Anomaly Detection`, `Outlier Detection`, `Out-of-Distribution`
 - [WSDM'23](#WSDM-2023)
 - [WWW'23](#WWW-2023)
 - [SDM'23](#SDM-2023)
-- `SIGMOD'23`: June 18-23
+- [SIGMOD'23](#SIGMOD-2023)
 
 # Conference 2022
 
@@ -154,7 +154,11 @@ Search Keywords: `Anomaly Detection`, `Outlier Detection`, `Out-of-Distribution`
 
 ### SIGMOD 2023
 
-- `Comming Soon: June 18-23`
+- [AutoOD: Automatic Outlier Detection](https://dl.acm.org/doi/pdf/10.1145/3588700)
+- [Robust and Transferable Log-based Anomaly Detection](https://dl.acm.org/doi/pdf/10.1145/3588918)
+- [Scaling Up k-Clique Densest Subgraph Detection](https://dl.acm.org/doi/abs/10.1145/3588923?casa_token=TbJktMg7PbUAAAAA:kJ7St1ipub9x34qho5cb0uDn4G7i1vnzw1AvfKVR7cFKbLNO8JeJQwrSI4ktAM-hJAArY5eHbPtv0QU)
+- [Detect, Distill and Update: Learned DB Systems Facing Out of Distribution Data](https://dl.acm.org/doi/pdf/10.1145/3588713)
+
 
 
 ## Journal 2023
