@@ -20,6 +20,9 @@ Search Keywords: `Anomaly Detection`, `Outlier Detection`, `Out-of-Distribution`
 - [SDM'23](#SDM-2023)
 - [SIGMOD'23](#SIGMOD-2023)
 
+# Journal 2023
+- [TKDE'2023](#TKDE-2023)
+
 # Conference 2022
 
 - [CVPR'22](#CVPR-2022)
@@ -176,6 +179,7 @@ Search Keywords: `Anomaly Detection`, `Outlier Detection`, `Out-of-Distribution`
 - [Cluster Purging: Efficient Outlier Detection Based on Rate-Distortion Theory](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9511218)
 - [Unsupervised Deep Anomaly Detection for Multi-Sensor Time-Series Signals](https://arxiv.org/pdf/2107.12626.pdf)
 - [Efficient Anomaly Detection for High-Dimensional Sensing Data With One-Class Support Vector Machine](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9422197)
+- [Deep Isolation Forest for Anomaly Detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10108034)
 
 
 
