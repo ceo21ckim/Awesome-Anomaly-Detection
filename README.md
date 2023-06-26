@@ -54,6 +54,7 @@ Search Keywords: `Anomaly Detection`, `Outlier Detection`, `Out-of-Distribution`
 - [Prompt-Guided Zero-Shot Anomaly Action Recognition using Pretrained Deep Skeleton Features](https://arxiv.org/pdf/2303.15167.pdf)
 - [Self-Supervised Video Forensics by Audio-Visual Anomaly Detection](https://arxiv.org/pdf/2301.01767.pdf)
 - [PyramidFlow: High-Resolution Defect Contrastive Localization using Pyramid Normalizing Flow](https://arxiv.org/pdf/2303.02595.pdf)
+- [SQUID: Deep Feature In-Painting for Unsupervised Anomaly Detection](https://arxiv.org/pdf/2111.13495.pdf)
 
 ### ICLR 2023
 
