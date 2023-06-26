@@ -46,6 +46,13 @@ Search Keywords: `Anomaly Detection`, `Outlier Detection`, `Out-of-Distribution`
 
 ### CVPR 2023
 
+
+- [Block Selection Method for Using Feature Norm in Out-of-distribution Detection](https://arxiv.org/pdf/2212.02295.pdf)
+- [LINe: Out-of-Distribution Detection by Leveraging Important Neurons](https://arxiv.org/pdf/2303.13995.pdf)
+- [Out-of-Distribution Detection by Leveraging Important Neurons](https://arxiv.org/pdf/2303.13995.pdf)
+- [GEN: Pushing the Limits of Softmax-Based Out-of-Distribution Detection](https://openaccess.thecvf.com/content/CVPR2023/supplemental/Liu_GEN_Pushing_the_CVPR_2023_supplemental.pdf)
+- [Detection of out-of-distribution samples using binary neuron activation patterns](https://openaccess.thecvf.com/content/CVPR2023/papers/Olber_Detection_of_Out-of-Distribution_Samples_Using_Binary_Neuron_Activation_Patterns_CVPR_2023_paper.pdf)
+- [Decoupling MaxLogit for Out-of-Distribution Detection](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Decoupling_MaxLogit_for_Out-of-Distribution_Detection_CVPR_2023_paper.pdf)
 - [Prototypical Residual Networks for Anomaly Detection and Localization](https://arxiv.org/pdf/2212.02031.pdf)
 - [Explicit Boundary Guided Semi-Push-Pull Contrastive Learning for Supervised Anomaly Detection](https://arxiv.org/pdf/2207.01463.pdf)
 - [DeSTSeg: Segmentation Guided Denoising Student-Teacher for Anomaly Detection](https://arxiv.org/pdf/2211.11317.pdf)
@@ -55,6 +62,10 @@ Search Keywords: `Anomaly Detection`, `Outlier Detection`, `Out-of-Distribution`
 - [Self-Supervised Video Forensics by Audio-Visual Anomaly Detection](https://arxiv.org/pdf/2301.01767.pdf)
 - [PyramidFlow: High-Resolution Defect Contrastive Localization using Pyramid Normalizing Flow](https://arxiv.org/pdf/2303.02595.pdf)
 - [SQUID: Deep Feature In-Painting for Unsupervised Anomaly Detection](https://arxiv.org/pdf/2111.13495.pdf)
+- [Look Around for Anomalies: Weakly-Supervised Anomaly Detection via Context-Motion Relational Learning](https://openaccess.thecvf.com/content/CVPR2023/papers/Cho_Look_Around_for_Anomalies_Weakly-Supervised_Anomaly_Detection_via_Context-Motion_Relational_CVPR_2023_paper.pdf)
+- [Uncertainty-Aware Optimal Transport for Semantically Coherent Out-of-Distribution Detection](https://arxiv.org/pdf/2303.10449.pdf)
+- [Exploiting Completeness and Uncertainty of Pseudo Labels for Weakly Supervised Video Anomaly Detection](https://arxiv.org/pdf/2212.04090.pdf)
+- [Revisiting Reverse Distillation for Anomaly Detection ](https://openaccess.thecvf.com/content/CVPR2023/papers/Tien_Revisiting_Reverse_Distillation_for_Anomaly_Detection_CVPR_2023_paper.pdf)
 
 ### ICLR 2023
 
