@@ -1,6 +1,6 @@
 # Awesome-Anomaly-Detection
 
-Search Keywords: `Anomaly Detection`, `Outlier Detection`, `Out-of-Distribution`, `Abnomal Detecting`, `Abnormal Detection`, `Defect Detection` `inspection`
+Search Keywords: `Anomaly Detection`, `Outlier Detection`, `Out-of-Distribution`, `Abnomal Detecting`, `Abnormal Detection`, `Defect Detection` `Inspection`
 
 # Conference 2023
 - [CVPR'23](#CVPR-2023)
@@ -65,7 +65,16 @@ Search Keywords: `Anomaly Detection`, `Outlier Detection`, `Out-of-Distribution`
 - [Look Around for Anomalies: Weakly-Supervised Anomaly Detection via Context-Motion Relational Learning](https://openaccess.thecvf.com/content/CVPR2023/papers/Cho_Look_Around_for_Anomalies_Weakly-Supervised_Anomaly_Detection_via_Context-Motion_Relational_CVPR_2023_paper.pdf)
 - [Uncertainty-Aware Optimal Transport for Semantically Coherent Out-of-Distribution Detection](https://arxiv.org/pdf/2303.10449.pdf)
 - [Exploiting Completeness and Uncertainty of Pseudo Labels for Weakly Supervised Video Anomaly Detection](https://arxiv.org/pdf/2212.04090.pdf)
-- [Revisiting Reverse Distillation for Anomaly Detection ](https://openaccess.thecvf.com/content/CVPR2023/papers/Tien_Revisiting_Reverse_Distillation_for_Anomaly_Detection_CVPR_2023_paper.pdf)
+- [Revisiting Reverse Distillation for Anomaly Detection](https://openaccess.thecvf.com/content/CVPR2023/papers/Tien_Revisiting_Reverse_Distillation_for_Anomaly_Detection_CVPR_2023_paper.pdf)
+- [Hierarchical Semantic Contrast for Scene-Aware Video Anomaly Detection](https://arxiv.org/pdf/2303.13051.pdf)
+- [Diversity-Measurable Anomaly Detection](https://arxiv.org/pdf/2303.05047.pdf)
+- [Video Event Restoration Based on Keyframes for Video Anomaly Detection](https://arxiv.org/pdf/2304.05112.pdf)
+- [Generating Anomalies for Video Anomaly Detection With Prompt-Based Feature Mapping](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Generating_Anomalies_for_Video_Anomaly_Detection_With_Prompt-Based_Feature_Mapping_CVPR_2023_paper.pdf)
+- [Balanced Energy Regularization Loss for Out-of-distribution Detection](https://arxiv.org/pdf/2306.10485.pdf)
+- [A New Comprehensive Benchmark for Semi-Supervised Video Anomaly Detection and Anticipation](https://arxiv.org/pdf/2305.13611.pdf)
+- [Multimodal Industrial Anomaly Detection via Hybrid Fusion](https://arxiv.org/pdf/2303.00601.pdf)
+- [Prototypical Residual Networks for Anomaly Detection and Localization](https://arxiv.org/pdf/2212.02031.pdf)
+- [Rethinking Out-of-distribution (OOD) Detection: Masked Image Modeling is All You Need](https://arxiv.org/pdf/2302.02615.pdf)
 
 ### ICLR 2023
 
